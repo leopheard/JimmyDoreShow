@@ -21,7 +21,7 @@ def main_menu():
             'path': plugin.url_for('all_episodes1'),
             'thumbnail': "https://ssl-static.libsyn.com/p/assets/b/0/4/3/b043eaa3e36ed529/JDPodThumb1.jpg"},
    {
-            'label': plugin.get_string(30001), 
+            'label': plugin.get_string(30002), 
             'path': plugin.url_for('all_comedy'),
             'thumbnail': "https://ssl-static.libsyn.com/p/assets/7/9/5/3/7953b2f961f84fe3/caee-for-podcast.jpg"},
 
