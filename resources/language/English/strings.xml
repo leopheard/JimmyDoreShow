@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
   <!-- Plugin name -->
-<<<<<<< HEAD
   <string id="30000">All Jimmy Dore shows</string>
   <string id="30001">Latest Jimmy Dore Show</string>
   <string id="30002">Comedy and Everything Else</string>
-=======
-  <string id="30000">All Kim Iversen shows</string>
-  <string id="30001">Latest Kim Iversen show</string>
->>>>>>> 038dd81bd86778d95a5c90da02264a017375cfa5
   </strings>
