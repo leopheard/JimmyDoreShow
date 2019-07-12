@@ -1,13 +1,13 @@
-#The Kim Iversen Show podcasts<br>
+#The Jimmy Dore Show podcasts<br>
 =============================
 
-KODI / XBMC / Firestick addon for the Kim Iversen Show podcasts
+KODI / XBMC / Firestick addon for the Jimmy Dore Show podcasts
 
-https://kimiversen.com/
+<a href="https://jimmydorecomedy.com/">JimmyDoreComedy.com</a>
 
-Kim Iversen is an independent minded rational progressive giving an honest take on today’s politics.
+#JimmyDoreshow
+#podcast
 
 To install this addon, either use the Kodi Github installer addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access. Then on the Kodi, go to addons > install from zip file.
 
-<a href="https://kimiversen.com/"><img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog4541467/Untitled-1.jpg" alt="Kim Iversen">
-# KimIversenShow
+<a href="https://jimmydorecomedy.com/"><img src="https://upisnvej69-flywheel.netdna-ssl.com/wp-content/uploads/2017/06/slider4c.jpg">
