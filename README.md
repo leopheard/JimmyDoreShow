@@ -1,7 +1,7 @@
-#The Jimmy Dore Show podcasts<br>
+The Jimmy Dore Show podcasts<br>
 =============================
 
-KODI / XBMC / Firestick audio addon for the Jimmy Dore Show podcasts<br>
+KODI / XBMC / Firestick video addon for the Jimmy Dore Show podcasts<br>
 
 <a href="https://jimmydorecomedy.com/">JimmyDoreComedy.com</a><br>
 
